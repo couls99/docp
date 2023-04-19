@@ -1,0 +1,253 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+#allo
+{
+   display: flex; 
+   margin-left: 200px;
+}
+.logo img 
+{
+    width: 200px;
+    height: 200px;
+    margin-top: -70px;
+}
+.navLink
+{
+    display: flex;
+    margin-left: 400px;
+}
+.navLink li 
+{
+    list-style: none;
+    margin-left: 20px;
+}
+.navLink a 
+{
+    text-decoration: none;
+    color: #ABABAB;
+}
+.navLink a:hover
+{
+    color: #45C7B6;
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: #00C3A5;
+    border-radius: 30px;
+    padding: 50PX;
+}
+
+.red1{
+    width: 200px;
+    height: 200px;
+    background-color: #508FE2;
+    border-radius: 30px;
+    margin-left: 10px;
+    padding: 50px;
+}
+.red2{
+    width: 200px;
+    height: 200px;
+    background-color: #313C48;
+    border-radius: 30px;
+    margin-left: 10px;
+    padding: 50px;
+}
+section
+{
+    display: flex;
+    justify-content: center;
+}
+
+.img1{
+    width: 20px;
+    justify-content: center;
+    margin-left: 580px;
+}
+
+.twopara{
+
+    display: flex;
+}
+
+.pg{
+    width: 500px;
+    height: 150px;
+    
+    border-radius: 30px;
+    margin-left: 10px;
+}
+.pd{
+    width: 500px;
+    height: 150px;
+    
+    border-radius: 30px;
+    margin-left: 10px;
+}
+.section3logos{
+   
+    
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+
+}
+.slogan{
+margin-left: 200px;
+
+width: 500px;
+}
+.S4{
+width: 1350px;
+height: 800px;
+background-color: #DBF7F6;
+display: block;
+text-align: center;
+
+
+}
+.SS4 {
+justify-content: left;
+    text-align: left;
+    
+    }
+
+.H{
+
+   margin-right: 100px;
+    }
+.B{
+
+   margin-left: 300px;
+    }
+
+
+
+    .H1{
+   width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+ 
+    .H2{
+  width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    
+}
+
+
+.B1{
+    width: 200px;
+     height: 200px;
+     background-color: white;
+     border-radius: 20px;
+     margin-left: 10px;
+     padding: 20px;
+     margin-top: 20px;
+ }
+ 
+     
+     .B2{
+   width: 200px;
+     height: 200px;
+     background-color: white;
+     border-radius: 20px;
+     margin-left: 10px;
+     padding: 20px;
+     
+ }
+.S5{
+    float: none;
+    text-align: center;
+    display: block;
+}
+    
+.mon-bloc {
+    background-color: #853131; /* Couleur de fond du bloc */
+    width: fit-content;
+    height: fit-content;
+  }
+  
+  .mon-bloc a {
+    max-width: 100%; /* Image occupant la largeur maximale du bloc */
+    margin-bottom: 30px; /* Marge basse pour espacer l'image du bouton */
+  }
+  
+  .mon-bloc button {
+    background-color: #007bff; /* Couleur de fond du bouton */
+    color: #fff; /* Couleur du texte du bouton */
+    padding: 10px 20px; /* Espacement intérieur pour le bouton */
+    border: none; /* Suppression de la bordure par défaut */
+    cursor: pointer; /* Curseur en pointeur au survol du bouton */
+  }
+   .S7{ 
+    float: none;
+    text-align: center;
+    display: block;
+
+
+
+}
+  .S7 button { 
+    background-color: #007bff; /* Couleur de fond du bouton */
+    color: #fff; /* Couleur du texte du bouton */
+    padding: 10px 20px; /* Espacement intérieur pour le bouton */
+    border: none; /* Suppression de la bordure par défaut */
+    cursor: pointer; /* Curseur en pointeur au survol du bouton */
+    
+  }
+
+  footer{
+
+    width: 1350px;
+    height: 100px;
+    float: none;
+    text-align: center;
+    display: block;
+}
+
+.im1{
+    width: 1350px;
+    height: 300px;
+    float: none;
+    background-color: #853131;
+
+    margin-left: 0%;
+    padding: 0;
+
+}
+
+.country{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-between; 
+     justify-content: space-around;
+    }
+
+    .country button{
+        background-color: #007bff; /* Couleur de fond du bouton */
+        color: #fff; /* Couleur du texte du bouton */
+        padding: 10px 20px; /* Espacement intérieur pour le bouton */
+        border: none; /* Suppression de la bordure par défaut */
+        cursor: pointer; /* Curseur en pointeur au survol du bouton */
+        
+    }
+    .buttons{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+    }
